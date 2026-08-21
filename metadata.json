@@ -1,0 +1,8 @@
+{
+  "name": "StreamManager - Gestion Abonnements Streaming (FCFA)",
+  "description": "Portail de gestion des abonnements streaming avec authentification sécurisée, 4 personnes par profil, facturation en FCFA, attribution de PINs et console administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
